@@ -6,5 +6,8 @@ Cara Menjalankan Projek JajanKPAD di Laptop / Lokal:
 3. Buka browser, akses `http://localhost/phpmyadmin`.
 4. Buat database baru dengan nama **`db_umkm_kpad`**.
 5. Pilih menu **Import**, klik *Choose File*, lalu pilih file **`db_umkm_kpad.sql`** yang ada di dalam folder projek ini. Klik **Import / Go** di bagian paling bawah.
-6. Buka tab baru di browser kamu, lalu akses alamat: `http://localhost/JajanKPAD` (atau sesuai nama folder kamu di htdocs).
-7. Website siap digunakan!
+6. Buka tab baru di browser kamu, lalu akses alamat: `http://localhost/web_kpad` 
+7. Website siap digunakan!  
+
+
+jika ingin mengakses dashboad admin untuk edit hanya tinggal ke `http://localhost/web_kpad/umkm_kpad.php`
